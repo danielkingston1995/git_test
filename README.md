@@ -1,2 +1,2 @@
 # git_test
-My first repository
+This project is to test my basic skills about github and frontend development.
